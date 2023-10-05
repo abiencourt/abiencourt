@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Who am I?
 
-<!--
-**abiencourt/abiencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Work
 
-Here are some ideas to get you started:
+- I am `Lead Software Developer` for [Revanista](https://www.revanista.com/) (Hotel Revenue Management Web Application)
+- Previously `Cloud Solution Architect` at Microsoft ☁️
+- [My LinkedIn profile](https://www.linkedin.com/in/adrien-biencourt/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 My previous experiences
+
+- Graduated from a [part study program in Software Development](https://www.gmit.ie/higher-diploma-in-science-in-software-development) in 2021
+- Worked with hundreds of companies to:
+    - manage their IT infrastructure 👌
+    - setup their HPC clusters and servers 💻
+    - deploy their scalable web-applications 📈
+    - Secure and enhance their cloud usage 🛡️
+ 
+### 🛠️ Skills
+
+- React, Node.js
+- AWS, Azure
+
+### 😎 About myself
+
+- [My personal GitHub profile](https://github.com/agoodshort)
+- [Neovim](https://neovim.io/) and Arch Linux user
