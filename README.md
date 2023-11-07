@@ -17,14 +17,15 @@
  
 ### 🛠️ Skills
 
-- React, Node.js
-- AWS, Azure
+- React, Node.js 🧑‍💻
+- AWS, Azure ☁️
+- Project management 🗓️
 
 ### 😎 About myself
 
-- [My personal GitHub profile](https://github.com/agoodshort)
 - Linux enthusiast using great open source tools like:
     - [neovim](https://neovim.io/) as IDE
     - [chezmoi](https://www.chezmoi.io/) for dotfile management
     - [lazygit](https://github.com/jesseduffield/lazygit)
     - [lazydocker](https://github.com/jesseduffield/lazydocker)
+- [My personal GitHub profile](https://github.com/agoodshort)
