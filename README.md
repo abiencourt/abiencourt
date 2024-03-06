@@ -1,7 +1,7 @@
 ## 👋 Hi! I am Adrien Biencourt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adrien-biencourt/)
-[![GitHub Personal Account](https://img.shields.io/badge/GitHub_Personal_Account-grey?style=for-the-badge&logo=github)](https://github.com/agoodshort)
+[![Personal GitHub Account](https://img.shields.io/badge/GitHub_Personal_Account-grey?style=for-the-badge&logo=github)](https://github.com/agoodshort)
 
 ### 💼 Work
 
