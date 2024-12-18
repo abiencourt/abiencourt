@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="https://app.pluralsight.com/profile/abiencourt" >
-        <img src="https://img.shields.io/badge/Pluralsight-black?style=for-the-badge&logo=pluralsight" />
-    </a>
     <a href="https://www.linkedin.com/in/adrien-biencourt/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin"/>
     </a>
