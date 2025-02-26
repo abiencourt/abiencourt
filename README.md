@@ -2,6 +2,7 @@
     <a href="https://app.pluralsight.com/profile/abiencourt"><img src="https://img.shields.io/badge/Pluralsight-black?style=for-the-badge&logo=pluralsight" /></a>
     <a href="https://www.linkedin.com/in/adrien-biencourt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
     <a href="https://crowdin.com/profile/abiencourt"><img src="https://img.shields.io/badge/Crowdin-30660f?style=for-the-badge&logo=crowdin" /></a>
+    <a href="https://aur.archlinux.org/account/abiencourt"><img src="https://img.shields.io/badge/AUR-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" /></a>
 </p>
 
 ## 💼 Work
@@ -47,5 +48,5 @@ Host and manage [1316 Medieval Fight Club](https://1316.ie) ⚔️
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=black" />
-    <a href="https://aur.archlinux.org/account/abiencourt"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/aws%20-%23FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=black" />
 </p>
