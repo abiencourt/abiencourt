@@ -6,8 +6,9 @@
 
 ## 💼 Work
 
-- I am `Senior Software Developer` for [Revanista](https://www.revanista.com/) (Hotel Revenue Management Web Application)
+- I am `Lead Software Developer` for [Revanista](https://www.revanista.com/) (Hotel Revenue Management Web Application)
 - Previous `Cloud Solution Architect` at Microsoft ☁️
+- Recently completed [elvtr AI Solution Architect course](https://uk.elvtr.com/course/ai-solutions-architecture)
 - [LinkedIn](https://www.linkedin.com/in/adrien-biencourt/) for more details
 
 ## 📊 Stats
