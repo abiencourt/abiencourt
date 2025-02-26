@@ -20,12 +20,6 @@
       src="https://wakapi.dev/api/badge/abiencourt/abiencourt/interval:30_days?label=last%2030d"
     />
   </a>
-  <a href="https://codeium.com/profile/abiencourt">
-    <img
-      src="https://codeium.com/badges/user/abiencourt/autocomplete"
-      alt="autocomplete"
-    />
-  </a>
   <br />
   <a href="https://wakapi.dev/">
     <img
@@ -53,5 +47,4 @@ Host and manage [1316 Medieval Fight Club](https://1316.ie) ⚔️
     <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=black" />
     <a href="https://aur.archlinux.org/account/abiencourt"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" /></a>
-    <a href="https://codeium.com/profile/abiencourt"><img src="https://img.shields.io/badge/Codeium-049D8E?&style=for-the-badge&logo=codeium&logoColor=white" /></a>
 </p>
