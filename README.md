@@ -45,6 +45,7 @@ Open source enthusiast using great tools like:
 - [chezmoi](https://www.chezmoi.io/) for dotfile management
 - [lazygit](https://github.com/jesseduffield/lazygit) for powerful `git` commands
 - [EnveavourOS](https://endeavouros.com/) as Arch distro
+- [aider](https://aider.chat/) for AI pair programming
 
 Host and manage [1316 Medieval Fight Club](https://1316.ie) ⚔️
 
