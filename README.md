@@ -3,6 +3,7 @@
     <a href="https://www.linkedin.com/in/adrien-biencourt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
     <a href="https://crowdin.com/profile/abiencourt"><img src="https://img.shields.io/badge/Crowdin-30660f?style=for-the-badge&logo=crowdin" /></a>
     <a href="https://aur.archlinux.org/account/abiencourt"><img src="https://img.shields.io/badge/AUR-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" /></a>
+    <a href="https://codeium.com/profile/abiencourt"><img src="https://img.shields.io/badge/Codeium-049D8E?&style=for-the-badge&logo=codeium&logoColor=white" /></a>
 </p>
 
 ## 💼 Work
@@ -20,6 +21,12 @@
   <a href="https://wakapi.dev/">
     <img
       src="https://wakapi.dev/api/badge/abiencourt/abiencourt/interval:30_days?label=last%2030d"
+    />
+  </a>
+  <a href="https://codeium.com/profile/abiencourt">
+    <img
+      src="https://codeium.com/badges/user/abiencourt/autocomplete"
+      alt="autocomplete"
     />
   </a>
   <br />
