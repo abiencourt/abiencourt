@@ -3,14 +3,14 @@
     <a href="https://www.linkedin.com/in/adrien-biencourt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin" /></a>
     <a href="https://crowdin.com/profile/abiencourt"><img src="https://img.shields.io/badge/Crowdin-30660f?style=for-the-badge&logo=crowdin" /></a>
     <a href="https://aur.archlinux.org/account/abiencourt"><img src="https://img.shields.io/badge/AUR-1793D1?&style=for-the-badge&logo=archlinux&logoColor=white" /></a>
-    <a href="https://codeium.com/profile/abiencourt"><img src="https://img.shields.io/badge/Codeium-049D8E?&style=for-the-badge&logo=codeium&logoColor=white" /></a>
 </p>
 
 ## 💼 Work
 
-- I am `Lead Software Developer` for [Revanista](https://www.revanista.com/) (Hotel Revenue Management Web Application)
-- Previous `Cloud Solution Architect` at Microsoft ☁️
-- Recently completed [elvtr AI Solution Architect course](https://uk.elvtr.com/course/ai-solutions-architecture)
+- I am `Enterprise Customer Success` at [MathWorks](https://www.mathworks.com/) 🚀
+- Previous `Cloud Solution Architect` at [Microsoft](https://azure.microsoft.com/) 🪟☁️
+- Previous `Full-stack engineer` at [Revanista](https://www.revanista.com/) 📈
+- Recently completed [elvtr AI Solution Architect course](https://uk.elvtr.com/course/ai-solutions-architecture) 🤖
 - [LinkedIn](https://www.linkedin.com/in/adrien-biencourt/) for more details
 
 ## 📊 Stats
