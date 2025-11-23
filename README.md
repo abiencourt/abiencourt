@@ -17,7 +17,9 @@
 
 <details>
   <summary>🛠️ Coding Stats</summary>
-  <br />
+  
+### ⏱️ Time Tracking
+
   <a href="https://wakapi.dev/">
     <img
       src="https://wakapi.dev/api/badge/abiencourt/abiencourt/interval:30_days?label=last%2030d"
@@ -26,7 +28,35 @@
   <br />
   <a href="https://wakapi.dev/">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=abiencourt&api_domain=wakapi.dev&display_format=percent&layout=compact&langs_count=10"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=abiencourt&api_domain=wakapi.dev&display_format=percent&layout=compact&langs_count=10&custom_title=Last%2030%20Days%20File%20Types%20Summary"
+    />
+  </a>
+  
+### 📈 Activity Charts
+
+  <a href="https://wakapi.dev/">
+    <img
+      src="https://wakapi.dev/api/activity/chart/abiencourt.svg"
+    />
+  </a>
+  <br />
+  <a href="https://github.com/abiencourt">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=abiencourt&theme=github"
+    />
+  </a>
+  
+### 🔥 GitHub Stats
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=abiencourt&theme=github"
+    />
+  </a>
+  <br />
+  <a href="https://github.com/abiencourt">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=abiencourt&theme=flat"
     />
   </a>
 </details>
